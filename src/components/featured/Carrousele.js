@@ -20,7 +20,7 @@ const Carrousel = () => {
                 <div>
                     <div className="carrousel_image" style={{ 
                         background: `url(${slide_one})`, 
-                        height: `${window.innerHeight}px`
+                        height: `${window.innerHeight}px`,
                     }}>
 
                     </div>
